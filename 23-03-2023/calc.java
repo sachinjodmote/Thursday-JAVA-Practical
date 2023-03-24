@@ -1,4 +1,4 @@
-// Write a program create a class calsculation add methos addition,substraction,multiplication,and division to it create objects and access those methods.
+// Write a program create a class calculation, add methods addition,substraction,multiplication,and division to create objects and access those methods.
 class Calculation  //declaring class
 {
    int a;   //   variable initialization                        
